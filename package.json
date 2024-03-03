@@ -1,0 +1,26 @@
+{
+  "name": "sum-pth",
+  "version": "1.0.0",
+  "description": "A library that helps you calculate the sum of 2 random numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hieut3k34/sum-pth"
+  },
+  "homepage": "https://x.com/hieut31",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "hieut3k34",
+  "license": "MIT"
+}
